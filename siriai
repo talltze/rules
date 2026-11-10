@@ -1,7 +1,7 @@
 # Apple Intelligence / Siri / Relay rules
 # Route these domains to a supported-region proxy group, such as a US node.
 DOMAIN,guzzoni.apple.com
-DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,*.smoot.apple.com
 DOMAIN,api-siri-prod.apple.com
 DOMAIN,seed.siri.apple.com
 DOMAIN,apple-relay.apple.com
