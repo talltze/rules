@@ -1,28 +1,31 @@
+
+# NAME: Gemini
+# DESCRIPTION: Google Gemini / AI Studio / Gemini API
+# SOURCE: blackmatrix7 + supplementary rules
+
+# Gemini Web & App
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+
+# Google AI Studio
 DOMAIN,ai.google.dev
-DOMAIN,aida.googleapis.com
-DOMAIN,aicode.googleapis.com
 DOMAIN,aistudio.google.com
-DOMAIN,alkalicore-pa.clients6.google.com
-DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,bard.google.com
-DOMAIN,deepmind.google
-DOMAIN,geller-pa.googleapis.com
-DOMAIN,gemini.google
-DOMAIN,gemini.google.com
-DOMAIN,generativeai.google
-DOMAIN,generativelanguage.googleapis.com
 DOMAIN,makersuite.google.com
-DOMAIN,proactivebackend-pa.googleapis.com
-DOMAIN,robinfrontend-pa.googleapis.com
-DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
-DOMAIN,notebooklm.google
-DOMAIN,notebooklm.google.com
-DOMAIN,jules.google
-DOMAIN,jules.google.com
-DOMAIN,labs.google
-DOMAIN,aisandbox-pa.googleapis.com
-DOMAIN-SUFFIX,antigravity.google
-DOMAIN-SUFFIX,antigravity-unleash.google
-DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
-DOMAIN,daily-cloudcode-pa.googleapis.com
-DOMAIN,aiplatform.googleapis.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,generativeai.google
+
+# Gemini API & Backend
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
+
+# Google API
+DOMAIN-SUFFIX,apis.google.com
+
+# Related services
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage
