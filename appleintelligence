@@ -1,0 +1,21 @@
+# ==========================================
+# Apple Intelligence & Siri
+# Based on Apple's official network requirements
+# ==========================================
+
+# 1. Siri and Dictation
+DOMAIN,guzzoni.apple.com
+
+# 2. Apple Search Services
+# Siri Search / Spotlight / Safari / Lookup / News / Messages / Music
+DOMAIN-SUFFIX,smoot.apple.com
+
+# 3. Apple Intelligence - Private Cloud Compute
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,cp4.cloudflare.com
+
+# Fastly
+DOMAIN,apple-relay.fastly-edge.com
+
+# 4. Apple Intelligence Extensions
+DOMAIN,apple-relay.apple.com
