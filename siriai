@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,cp4.cloudflare.com
-DOMAIN,api-apple-relay.apple.com
+DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.mask.apple-dns.net
 DOMAIN,apple-relay.akamaized.net
 DOMAIN,apple-carry-relay.cloudflare.com
