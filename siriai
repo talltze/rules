@@ -2,7 +2,7 @@
 DOMAIN,api-siri-prod.apple.com
 DOMAIN,guzzoni.apple.com
 DOMAIN,seed.siri.apple.com
-DOMAIN,*.smoot.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
 
 # Private Cloud Compute and Apple Intelligence extensions
 DOMAIN,apple-relay.cloudflare.com
